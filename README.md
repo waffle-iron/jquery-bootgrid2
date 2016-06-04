@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/renerlemes/jquery-bootgrid2.png?label=ready&title=Ready)](https://waffle.io/renerlemes/jquery-bootgrid2)
 jQuery Bootgrid Plugin - Implementações
 ============
 
